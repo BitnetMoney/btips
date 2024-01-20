@@ -16,6 +16,8 @@ The BTIP process begins with a new idea for Bitnet. Each potential BTIP must sta
 
 ## Contributing
 Before contributing, please see the [BTIP Standard Template](https://github.com/BitnetMoney/btips/blob/main/templates/btip-template.md) document, which contains guidelines for writing BTIPs. It is recommended to discuss your ideas with the community before drafting your proposal.
+  
+It's important to note that the opportunity to contribute to BTIPS extends beyond developers. We welcome contributions from a diverse array of participants, including community members, industry experts, and other enthusiasts in the field. This broad approach allows us to incorporate a wide spectrum of ideas and expertise, significantly enriching the BTIPS process.
 
 ### Steps to Contribute
 1. Fork the repository and create your branch from `master`.
