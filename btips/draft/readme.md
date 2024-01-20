@@ -4,6 +4,11 @@ This directory contains all BTIPs (Bitnet Improvement Proposals) that are curren
 
 ## List of Draft BTIPs
 
+- BTIP-0001: Create a Consolidated Whitepaper Document with Improved Clarity, Accuracy, and References
+  - **Author(s)**: ZNX
+  - **Created**: 2024-01-21
+  - **Status**: Draft
+
 Template for listing
 ```md
 - BTIP-XX: [Title of the BTIP]

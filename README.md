@@ -27,6 +27,13 @@ It's important to note that the opportunity to contribute to BTIPS extends beyon
 ## BTIP Format and Standards
 Each BTIP should follow the standard format as outlined in the BTIP Standard Template. This includes a title, abstract, motivation, specification, rationale, and, if applicable, a reference implementation.
 
+## List of BTIPs
+
+- BTIP-0001: Create a Consolidated Whitepaper Document with Improved Clarity, Accuracy, and References
+  - **Author(s)**: ZNX
+  - **Created**: 2024-01-21
+  - **Status**: Draft
+
 ## Resources
 - [Bitnet Website](https://bitnet.money)
 
