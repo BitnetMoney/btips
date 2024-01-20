@@ -7,7 +7,7 @@ This repository is for Bitnet Improvement Proposals (BTIPS), which are formal do
 A BTIP is a design document providing information to the Bitnet community, or describing a new feature for Bitnet or its processes or environment. The BTIP should provide a concise technical specification of the feature and a rationale for the feature.
 
 ## BTIP Workflow
-The BTIP process begins with a new idea for Bitnet. Each potential BTIP must start as a discussion on [one of Bitnet's community channels](https://bitnet.community/discussions) or as a draft proposal on this repository. After discussing and refining the idea with feedback from the community, the proposal can be submitted as a pull request to this repository.
+The BTIP process begins with a new idea for Bitnet. Each potential BTIP must start as a discussion on [one of Bitnet's community channels](https://bitnet.money/community) or as a draft proposal on this repository. After discussing and refining the idea with feedback from the community, the proposal can be submitted as a pull request to this repository.
 
 1. **Draft**: The initial phase of a BTIP before it is formally accepted.
 2. **Accepted**: The BTIP has been agreed upon and is actively being implemented.
@@ -15,7 +15,7 @@ The BTIP process begins with a new idea for Bitnet. Each potential BTIP must sta
 4. **Deferred**: The BTIP is not being considered for immediate implementation but might be revisited in the future.
 
 ## Contributing
-Before contributing, please see the [BTIP Standard Template](https://github.com/BitnetMoney/btips/templates/btip-template.md) document, which contains guidelines for writing BTIPs. It is recommended to discuss your ideas with the community before drafting your proposal.
+Before contributing, please see the [BTIP Standard Template](https://github.com/BitnetMoney/btips/blob/main/templates/btip-template.md) document, which contains guidelines for writing BTIPs. It is recommended to discuss your ideas with the community before drafting your proposal.
 
 ### Steps to Contribute
 1. Fork the repository and create your branch from `master`.
@@ -23,10 +23,7 @@ Before contributing, please see the [BTIP Standard Template](https://github.com/
 3. Submit a pull request with your proposal.
 
 ## BTIP Format and Standards
-Each BTIP should follow the standard format as outlined in BTIP-1. This includes a title, abstract, motivation, specification, rationale, and, if applicable, a reference implementation.
-
-## License
-The content of this repository is licensed under [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+Each BTIP should follow the standard format as outlined in the BTIP Standard Template. This includes a title, abstract, motivation, specification, rationale, and, if applicable, a reference implementation.
 
 ## Resources
 - [Bitnet Website](https://bitnet.money)
