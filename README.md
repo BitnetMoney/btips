@@ -10,9 +10,10 @@ A BTIP is a design document providing information to the Bitnet community, or de
 The BTIP process begins with a new idea for Bitnet. Each potential BTIP must start as a discussion on [one of Bitnet's community channels](https://bitnet.money/community) or as a draft proposal on this repository. After discussing and refining the idea with feedback from the community, the proposal can be submitted as a pull request to this repository.
 
 1. **Draft**: The initial phase of a BTIP before it is formally accepted.
-2. **Accepted**: The BTIP has been agreed upon and is actively being implemented.
-3. **Finalized**: The BTIP has been implemented and is a part of the Bitnet protocol.
-4. **Deferred**: The BTIP is not being considered for immediate implementation but might be revisited in the future.
+2. **Accepted**: The BTIP has been agreed upon by the community and is actively being implemented.
+3. **Cancelled**: The BTIP has not been accepted by the community and will not be implemented.
+4. **Finalized**: The BTIP has been implemented and is a part of the Bitnet protocol.
+5. **Deferred**: The BTIP is not being considered for immediate implementation but might be revisited in the future.
 
 ## Contributing
 Before contributing, please see the [BTIP Standard Template](https://github.com/BitnetMoney/btips/blob/main/templates/btip-template.md) document, which contains guidelines for writing BTIPs. It is recommended to discuss your ideas with the community before drafting your proposal.
@@ -29,10 +30,11 @@ Each BTIP should follow the standard format as outlined in the BTIP Standard Tem
 
 ## List of BTIPs
 
-- BTIP-0001: Create a Consolidated Whitepaper Document with Improved Clarity, Accuracy, and References
-  - **Author(s)**: ZNX
-  - **Created**: 2024-01-21
-  - **Status**: Draft
+| BTIP | Created | Status | Description |
+|-|-|-|-|
+| 0001 | 2024-01-21 | Deferred | Create a Consolidated Whitepaper Document with Improved Clarity, Accuracy, and References |
+| 0002 | 2024-07-11 | Draft | Integration of Ethereum Token Standards into Bitnet for Enhanced Compliance and Autonomy
+| 0003 | 2025-03-01 | Draft | Protocol Enhancements for Increased Throughput, Halving Mechanism Implementation, and Zero Uncle Block Rewards
 
 ## Resources
 - [Bitnet Website](https://bitnet.money)
