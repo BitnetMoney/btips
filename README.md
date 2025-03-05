@@ -34,7 +34,7 @@ Each BTIP should follow the standard format as outlined in the BTIP Standard Tem
 |-|-|-|-|
 | 0001 | 2024-01-21 | Deferred | Create a Consolidated Whitepaper Document with Improved Clarity, Accuracy, and References |
 | 0002 | 2024-07-11 | Draft | Integration of Ethereum Token Standards into Bitnet for Enhanced Compliance and Autonomy
-| 0003 | 2025-03-01 | Draft | Protocol Enhancements for Increased Throughput, Halving Mechanism Implementation, and Zero Uncle Block Rewards
+| 0003 | 2025-03-01 | Cancelled | Protocol Enhancements for Increased Throughput, Halving Mechanism Implementation, and Zero Uncle Block Rewards
 
 ## Resources
 - [Bitnet Website](https://bitnet.money)
